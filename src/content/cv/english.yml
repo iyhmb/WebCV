@@ -1,0 +1,199 @@
+header:
+  name: Tian Wu
+  metas:
+    - icon: Mail
+      name: "Email: "
+      content: me@skywt.cn
+      link: mailto:me@skywt.cn
+    - icon: Phone
+      name: "Phone: "
+      content: 133-****-****
+    - icon: BrandWechat
+      name: "WeChat: "
+      content: Skywt2003
+    - icon: BrandGithub
+      name: "GitHub: "
+      content: Skywt2003
+      link: https://github.com/Skywt2003
+sections:
+  - title: Education Experience
+    projects:
+      - title: Hunan University
+        subtitle: College of Computer Science and Electronic Engineering
+        date: September 2021 - June 2025
+        icon: School
+        caption: Bachelor's Degree in Information Security (Expected June 2025)
+        items:
+          - "<b>Major courses: </b>Programming, Algorithms & Data Structures, Computer Architecture, Operating Systems, Database Systems, Computer Networks, Cyber Security"
+          - "<b>Academic performance: </b>GPA 3.61/4.00, Top 21%"
+  - title: Internship Experience
+    projects:
+      - title: Alibaba Group - DingTalk (China) Information Technology Co., LTD
+        subtitle: Suite Technology / Smart Finance
+        date: July 2024 - September 2024
+        icon: Code
+        caption: Front-end Engineer Intern
+        techs:
+          - icon: BrandReact
+            name: React.js
+          - icon: Package
+            name: Webpack
+          - icon: BrandTypescript
+            name: TypeScript
+        items:
+          - Contributed to front-end development for the <b>Smart Finance</b> module within the <b>DingTalk app</b> on both PC and mobile platforms.
+          - "Developed a <b>Smart Finance i18n Automation Tool</b> using JS scripts to automate internationalization (i18n) for the front-end."
+          - - Used <b>Babel</b> to parse code into <b>AST</b> for automated i18n integration with <b>i18next</b>.
+            - Incorporated <b>AI-generated translations</b> (Alibaba <b>Qwen</b>) into the build process.
+            - Implemented <b>Husky</b> for code checks and established i18n standards and documentation.
+  - title: Project Experience
+    projects:
+      - title: HNU Wei Life
+        desc: Mini Program for HNU students.
+        date: March 2022 - October 2023
+        icon: Code
+        caption: Front-end Engineer Member
+        techs:
+          - icon: BrandReact
+            name: React.js
+          - icon: LayersIntersect
+            name: Taro.js
+          - icon: BrandMiniprogram
+            name: Mini Program
+          - icon: BrandTypescript
+            name: TypeScript
+        items:
+          - "<b>Project Background: </b>Developed a mini-program for HNU students to address the limitations of the school's academic administration website, which was not mobile-friendly and accessible only via the internal network."
+          - "<b>My Responsibilities: </b>"
+          - - <b>Analyzed the academic system's API</b> using methods like packet capturing while ensuring compliance.
+            - Contributed to <b>front-end development</b> by creating a <b>cross-platform mini-program</b> using Taro.js and React.js. Developed 5 pages with features like grade inquiries and library book loan queries.
+      - title: "Blog System: Daydreamer"
+        desc: A fully functional blogging system.
+        date: October 2023 - March 2024
+        icon: Stack2
+        caption: Full-stack Engineer, UI/UX Design
+        techs:
+          - icon: BrandAstro
+            name: Astro.js
+          - icon: BrandReact
+            name: React.js
+          - icon: BrandNodejs
+            name: Node.js
+          - icon: Ikosaedr
+            name: Koa.js
+          - icon: BrandDocker
+            name: Docker
+          - icon: Database
+            name: Postgres
+        items:
+          - <b>My Work:</b>
+          - - Developed the front-end using <b>Astro.js</b> and integrated components like the comment section with <b>React.js</b>.
+            - Created the back-end with <b>Koa.js</b>, utilizing <b>TypeORM</b> for Postgres database interactions. Implemented <b>Docker</b> for containerization and <b>GitHub Actions</b> for automated deployment.
+          - "<b>Showcase: </b>Personal website: <b><a href='https://skywt.cn/' target='_blank' class='link'>skywt.cn<i class='ti ti-external-link'></i></a></b>, <i class='ti ti-brand-github'></i><a href='https://github.com/Skywt2003/Daydreamer' target='_blank' class='link'>Front-end Source Code Repository<i class='ti ti-external-link'></i></a>, <i class='ti ti-brand-github'></i><a href='https://github.com/Skywt2003/Daydreamer-backend' target='_blank' class='link'>Back-end Source Code Repository<i class='ti ti-external-link'></i></a>。"
+  - title: Skills & Technology Stack
+    table:
+      rows:
+        - Front-end
+        - Back-end
+        - Ops
+      cols:
+        - Proficient
+        - Familiar
+      cells:
+        - - lines:
+              - - icon: BrandHtml5
+                  name: HTML5
+                - icon: BrandCss3
+                  name: CSS3
+                - icon: BrandJavascript
+                  name: JavaScript
+                - icon: BrandTypescript
+                  name: TypeScript
+              - - icon: BrandReact
+                  name: React.js
+                - icon: BrandNextjs
+                  name: Next.js
+                - icon: BrandAstro
+                  name: Astro.js
+              - - icon: Package
+                  name: Webpack
+                - icon: LetterB
+                  name: Babel
+                - icon: BrandSass
+                  name: Sass
+                - icon: BrandTailwind
+                  name: Tailwind.css
+          - lines:
+              - - icon: BrandVue
+                  name: Vue.js
+                - icon: BrandVite
+                  name: Vite.js
+              - - icon: BrandMiniprogram
+                  name: Mini Program
+                - icon: LayersIntersect
+                  name: Taro.js
+                - icon: BrandReactNative
+                  name: React Native
+              - - icon: BrandSwift
+                  name: Swift
+                - icon: BrandSwift
+                  name: SwiftUI
+        - - lines:
+              - - icon: BrandNodejs
+                  name: Node.js
+                - icon: Ikosaedr
+                  name: Koa.js
+                - icon: CodeMinus
+                  name: TypeORM
+          - lines:
+              - - icon: BrandPython
+                  name: Python
+                - icon: Copyright
+                  name: C / C++
+                - icon: BrandPhp
+                  name: PHP
+              - - icon: DatabaseSearch
+                  name: SQL
+                - icon: BrandMysql
+                  name: MySQL
+                - icon: FileTypeSql
+                  name: SQLite
+                - icon: Database
+                  name: Postgres
+        - - lines:
+              - - icon: Terminal2
+                  name: Linux
+                - icon: BrandDocker
+                  name: Docker
+                - icon: Server
+                  name: Caddy
+                - icon: BrandGithub
+                  name: GitHub Actions
+          - lines:
+              - - icon: Server
+                  name: Nginx
+                - icon: Cube
+                  name: Kubernetes
+                - icon: Terminal2
+                  name: PVE
+  - title: Certificates & awards
+    projects:
+      - title: China Collegiate Programming Contest (CCPC) Guangzhou
+        subtitle: Silver Award
+        date: "November 2021"
+      - title: CCF Certified Software Professional (CSP)
+        date: "September 2022"
+        subtitle: 290 pts, national ranking 4.6%
+      - title: College English Test Level 6 (CET6)
+        date: "March 2023"
+        subtitle: 566 pts
+      - title: Second Class Scholarship & Individual Scholarship of HNU
+        date: "2022, 2023"
+  - title: Campus experience
+    projects:
+      - title: HNU Information Security Association (HNUSec)
+        subtitle: President
+        date: September 2023 - now
+      - title: Debate Team of HNU CSEE
+        subtitle: Captain
+        date: July 2022 - July 2023
