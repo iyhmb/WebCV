@@ -86,10 +86,10 @@ sections:
           - icon: Database
             name: Postgres
         items:
-          - <b>My Work:</b>
+          - "<b>My Work: </b>"
           - - Developed the front-end using <b>Astro.js</b> and integrated components like the comment section with <b>React.js</b>.
             - Created the back-end with <b>Koa.js</b>, utilizing <b>TypeORM</b> for Postgres database interactions. Implemented <b>Docker</b> for containerization and <b>GitHub Actions</b> for automated deployment.
-          - "<b>Showcase: </b>Personal website: <b><a href='https://skywt.cn/' target='_blank' class='link'>skywt.cn<i class='ti ti-external-link'></i></a></b>, <i class='ti ti-brand-github'></i><a href='https://github.com/Skywt2003/Daydreamer' target='_blank' class='link'>Front-end Source Code Repository<i class='ti ti-external-link'></i></a>, <i class='ti ti-brand-github'></i><a href='https://github.com/Skywt2003/Daydreamer-backend' target='_blank' class='link'>Back-end Source Code Repository<i class='ti ti-external-link'></i></a>。"
+          - "<b>Showcase: </b>Personal website: <b><a href='https://skywt.cn/' target='_blank' class='link'>skywt.cn<i class='ti ti-external-link'></i></a></b>, <i class='ti ti-brand-github'></i><a href='https://github.com/Skywt2003/Daydreamer' target='_blank' class='link'>Front-end Source Code Repository<i class='ti ti-external-link'></i></a>, <i class='ti ti-brand-github'></i><a href='https://github.com/Skywt2003/Daydreamer-backend' target='_blank' class='link'>Back-end Source Code Repository<i class='ti ti-external-link'></i></a>."
   - title: Skills & Technology Stack
     table:
       rows:

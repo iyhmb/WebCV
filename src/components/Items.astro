@@ -8,24 +8,14 @@ interface Props {
 const { items } = Astro.props;
 ---
 
-<ul>
+<ul class="ml-6">
   {
     items.map((item) =>
       Array.isArray(item) ? (
         <ItemsCopy items={item} />
       ) : (
-        <li>{<Fragment set:html={item} />}</li>
+        <li class="list-item list-disc">{<Fragment set:html={item} />}</li>
       ),
     )
   }
 </ul>
-
-<style lang="scss">
-  ul {
-    @apply ml-6;
-  }
-
-  li {
-    @apply list-item list-disc;
-  }
-</style>

@@ -8,29 +8,11 @@ interface Props {
 const { header } = Astro.props;
 ---
 
-<div class="header">
-  <h1 class="name">
+<div class="flex flex-col items-center sm:flex-row justify-between gap-4">
+  <h1 class="text-5xl font-ding font-black">
     {header.name}
   </h1>
-  <div class="info">
+  <div class="font-ding">
     <Metas metas={header.metas} />
   </div>
 </div>
-
-<style lang="scss">
-  .header {
-    @apply mt-16;
-    @apply flex;
-    @apply flex-col items-center;
-    @apply sm:flex-row sm:items-end sm:justify-between;
-
-    .name {
-      @apply font-black text-5xl font-ding mr-4 text-nowrap;
-    }
-
-    .info {
-      @apply mt-4 sm:mt-0;
-      @apply font-ding text-nowrap;
-    }
-  }
-</style>
