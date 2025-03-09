@@ -1,38 +1,38 @@
 header:
-  name: 吴天
+  name: 李凯健
   metas:
     - icon: Mail
       name: 邮箱：
-      content: me@skywt.cn
-      link: mailto:me@skywt.cn
+      content: admin@likaijian.com
+      link: mailto:admin@likaijian.com
     - icon: Phone
       name: 电话：
-      content: 133-****-****
+      content: 178-****-****
     - icon: BrandWechat
       name: 微信：
-      content: Skywt2003
+      content: YH191822YH
     - icon: BrandGithub
       name: GitHub：
-      content: Skywt2003
-      link: https://github.com/Skywt2003
+      content: iyhmb
+      link: https://github.com/iyhmb
 sections:
   - title: 教育背景
     projects:
-      - title: 湖南大学
-        subtitle: 信息科学与工程学院
-        date: 2021 年 9 月 - 2025 年 6 月
+      - title: 广西物流职业技术学院
+        subtitle: 物流管理学院
+        date: 2022 年 9 月 - 2025 年 6 月
         icon: School
-        caption: 信息安全专业，本科（在读）
+        caption: 智能物流技术，专科
         items:
-          - <b>主修课程：</b>程序设计、算法与数据结构、体系结构、操作系统、数据库系统、计算机网络、网络安全等
-          - <b>学业成绩：</b>GPA 3.61/4.00，专业排名 21%
+          - <b>主修课程：</b>智能仓储与配送管理、智能运输管理实务、物流系统构建、物流信息技术与应用、物流市场营销、现代物流管理、物流无人机
+          - <b>学业成绩：</b>GPA 3.32/4.00，专业排名 69%
   - title: 实习经历
     projects:
-      - title: 阿里巴巴集团
-        subtitle: 钉钉（中国）信息技术有限公司
-        date: 2024 年 7 月 - 2024 年 9 月
+      - title: 广西物流职业技术学院
+        subtitle: 数据处理中心
+        date: 2023 年 9 月 - 2024 年 12 月
         icon: Code
-        caption: 前端开发实习生
+        caption: 教室设备管理员
         techs:
           - icon: BrandReact
             name: React.js
