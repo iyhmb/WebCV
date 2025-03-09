@@ -1,199 +1,75 @@
 header:
-  name: Tian Wu
+  name_en: Li Kaijian
   metas:
     - icon: Mail
-      name: "Email: "
-      content: me@skywt.cn
-      link: mailto:me@skywt.cn
+      name_en: Email:
+      content: admin@likaijian.com
+      link: mailto:admin@likaijian.com
     - icon: Phone
-      name: "Phone: "
-      content: 133-****-****
+      name_en: Phone:
+      content: 178-****-****
     - icon: BrandWechat
-      name: "WeChat: "
-      content: Skywt2003
+      name_en: WeChat:
+      content: YH191822YH
     - icon: BrandGithub
-      name: "GitHub: "
-      content: Skywt2003
-      link: https://github.com/Skywt2003
+      name_en: Hometown:
+      content: Wuzhou, Guangxi
+
 sections:
-  - title: Education Experience
+  - title: Education Background
     projects:
-      - title: Hunan University
-        subtitle: College of Computer Science and Electronic Engineering
-        date: September 2021 - June 2025
+      - title: Guangxi Vocational and Technical College of Logistics
+        subtitle: School of Logistics Management
+        date: September 2022 - June 2025
         icon: School
-        caption: Bachelor's Degree in Information Security (Expected June 2025)
+        caption: Intelligent Logistics Technology, Diploma
         items:
-          - "<b>Major courses: </b>Programming, Algorithms & Data Structures, Computer Architecture, Operating Systems, Database Systems, Computer Networks, Cyber Security"
-          - "<b>Academic performance: </b>GPA 3.61/4.00, Top 21%"
+          - "<b>Core Courses:</b> Intelligent Warehouse and Distribution Management, Intelligent Transportation Management Practices, Logistics System Construction, Logistics Information Technology and Application, Logistics Marketing, Modern Logistics Management, Logistics Drones"
+          - "<b>Academic Performance:</b> GPA 3.32/4.00, Ranked 69% in the major"
+          - "<b>Class Positions:</b> Deputy Class Monitor, League Secretary, Dormitory Leader, Freshman Class Assistant"
+          - "<b>Volunteer Activities:</b> Accumulated over 50 hours of volunteer service"
+
   - title: Internship Experience
     projects:
-      - title: Alibaba Group - DingTalk (China) Information Technology Co., LTD
-        subtitle: Suite Technology / Smart Finance
-        date: July 2024 - September 2024
+      - title: Guangxi Vocational and Technical College of Logistics
+        subtitle: Data Processing Center
+        date: September 2023 - December 2024
         icon: Code
-        caption: Front-end Engineer Intern
-        techs:
-          - icon: BrandReact
-            name: React.js
-          - icon: Package
-            name: Webpack
-          - icon: BrandTypescript
-            name: TypeScript
+        caption: Classroom Equipment Manager
         items:
-          - Contributed to front-end development for the <b>Smart Finance</b> module within the <b>DingTalk app</b> on both PC and mobile platforms.
-          - "Developed a <b>Smart Finance i18n Automation Tool</b> using JS scripts to automate internationalization (i18n) for the front-end."
-          - - Used <b>Babel</b> to parse code into <b>AST</b> for automated i18n integration with <b>i18next</b>.
-            - Incorporated <b>AI-generated translations</b> (Alibaba <b>Qwen</b>) into the build process.
-            - Implemented <b>Husky</b> for code checks and established i18n standards and documentation.
+          - "Maintenance of classroom computers and integrated smart boards: Daily equipment checks, troubleshooting, and repairs to ensure normal operation"
+          - "<b>Fault Handling:</b> Rapidly locate and resolve sudden equipment failures to ensure normal teaching activities"
+          - "<b>System Updates and Optimization:</b> Regularly update operating systems and software based on teaching needs to enhance device performance and compatibility"
+
   - title: Project Experience
     projects:
-      - title: HNU Wei Life
-        desc: Mini Program for HNU students.
-        date: March 2022 - October 2023
+      - title: VR Virtual and Real Design
+        desc: Built virtual scenes using C++ language
+        date: October 2022 - March 2023
         icon: Code
-        caption: Front-end Engineer Member
-        techs:
-          - icon: BrandReact
-            name: React.js
-          - icon: LayersIntersect
-            name: Taro.js
-          - icon: BrandMiniprogram
-            name: Mini Program
-          - icon: BrandTypescript
-            name: TypeScript
+        caption: One of the Development Team Members
         items:
-          - "<b>Project Background: </b>Developed a mini-program for HNU students to address the limitations of the school's academic administration website, which was not mobile-friendly and accessible only via the internal network."
-          - "<b>My Responsibilities: </b>"
-          - - <b>Analyzed the academic system's API</b> using methods like packet capturing while ensuring compliance.
-            - Contributed to <b>front-end development</b> by creating a <b>cross-platform mini-program</b> using Taro.js and React.js. Developed 5 pages with features like grade inquiries and library book loan queries.
-      - title: "Blog System: Daydreamer"
-        desc: A fully functional blogging system.
+          - "<b>Project Background:</b> Guangxi Vocational Skills Competition"
+          - "<b>My Responsibilities:</b> After team members completed model building using 3D MAX, imported models into Unity and completed character and bullet dynamics design"
+      - title: Software Testing
+        desc: Performance testing of API interfaces
         date: October 2023 - March 2024
         icon: Stack2
-        caption: Full-stack Engineer, UI/UX Design
-        techs:
-          - icon: BrandAstro
-            name: Astro.js
-          - icon: BrandReact
-            name: React.js
-          - icon: BrandNodejs
-            name: Node.js
-          - icon: Ikosaedr
-            name: Koa.js
-          - icon: BrandDocker
-            name: Docker
-          - icon: Database
-            name: Postgres
         items:
-          - "<b>My Work: </b>"
-          - - Developed the front-end using <b>Astro.js</b> and integrated components like the comment section with <b>React.js</b>.
-            - Created the back-end with <b>Koa.js</b>, utilizing <b>TypeORM</b> for Postgres database interactions. Implemented <b>Docker</b> for containerization and <b>GitHub Actions</b> for automated deployment.
-          - "<b>Showcase: </b>Personal website: <b><a href='https://skywt.cn/' target='_blank' class='link'>skywt.cn<i class='ti ti-external-link'></i></a></b>, <i class='ti ti-brand-github'></i><a href='https://github.com/Skywt2003/Daydreamer' target='_blank' class='link'>Front-end Source Code Repository<i class='ti ti-external-link'></i></a>, <i class='ti ti-brand-github'></i><a href='https://github.com/Skywt2003/Daydreamer-backend' target='_blank' class='link'>Back-end Source Code Repository<i class='ti ti-external-link'></i></a>."
-  - title: Skills & Technology Stack
-    table:
-      rows:
-        - Front-end
-        - Back-end
-        - Ops
-      cols:
-        - Proficient
-        - Familiar
-      cells:
-        - - lines:
-              - - icon: BrandHtml5
-                  name: HTML5
-                - icon: BrandCss3
-                  name: CSS3
-                - icon: BrandJavascript
-                  name: JavaScript
-                - icon: BrandTypescript
-                  name: TypeScript
-              - - icon: BrandReact
-                  name: React.js
-                - icon: BrandNextjs
-                  name: Next.js
-                - icon: BrandAstro
-                  name: Astro.js
-              - - icon: Package
-                  name: Webpack
-                - icon: LetterB
-                  name: Babel
-                - icon: BrandSass
-                  name: Sass
-                - icon: BrandTailwind
-                  name: Tailwind.css
-          - lines:
-              - - icon: BrandVue
-                  name: Vue.js
-                - icon: BrandVite
-                  name: Vite.js
-              - - icon: BrandMiniprogram
-                  name: Mini Program
-                - icon: LayersIntersect
-                  name: Taro.js
-                - icon: BrandReactNative
-                  name: React Native
-              - - icon: BrandSwift
-                  name: Swift
-                - icon: BrandSwift
-                  name: SwiftUI
-        - - lines:
-              - - icon: BrandNodejs
-                  name: Node.js
-                - icon: Ikosaedr
-                  name: Koa.js
-                - icon: CodeMinus
-                  name: TypeORM
-          - lines:
-              - - icon: BrandPython
-                  name: Python
-                - icon: Copyright
-                  name: C / C++
-                - icon: BrandPhp
-                  name: PHP
-              - - icon: DatabaseSearch
-                  name: SQL
-                - icon: BrandMysql
-                  name: MySQL
-                - icon: FileTypeSql
-                  name: SQLite
-                - icon: Database
-                  name: Postgres
-        - - lines:
-              - - icon: Terminal2
-                  name: Linux
-                - icon: BrandDocker
-                  name: Docker
-                - icon: Server
-                  name: Caddy
-                - icon: BrandGithub
-                  name: GitHub Actions
-          - lines:
-              - - icon: Server
-                  name: Nginx
-                - icon: Cube
-                  name: Kubernetes
-                - icon: Terminal2
-                  name: PVE
-  - title: Certificates & awards
+          - "<b>Project Background:</b> Guangxi Vocational Skills Competition"
+          - "<b>My Responsibilities:</b> Used JMeter and LoadRunner to record scripts and complete effective numerical testing"
+
+  - title: Certificates and Awards
     projects:
-      - title: China Collegiate Programming Contest (CCPC) Guangzhou
-        subtitle: Silver Award
-        date: "November 2021"
-      - title: CCF Certified Software Professional (CSP)
-        date: "September 2022"
-        subtitle: 290 pts, national ranking 4.6%
-      - title: College English Test Level 6 (CET6)
-        date: "March 2023"
-        subtitle: 566 pts
-      - title: Second Class Scholarship & Individual Scholarship of HNU
-        date: "2022, 2023"
-  - title: Campus experience
+      - title: Guangxi Vocational and Technical College of Logistics
+        subtitle: Excellent Communist Youth League Cadre
+        date: March 2024
+
+  - title: Campus Experience
     projects:
-      - title: HNU Information Security Association (HNUSec)
-        subtitle: President
-        date: September 2023 - now
-      - title: Debate Team of HNU CSEE
-        subtitle: Captain
-        date: July 2022 - July 2023
+      - title: Electronics and Technology Association of Logistics College
+        subtitle: Member
+        date: March 2024 - December 2024
+      - title: English Association
+        subtitle: Member
+        date: December 2022 - July 2023
