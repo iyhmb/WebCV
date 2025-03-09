@@ -1,75 +1,76 @@
 header:
-  name_en: Li Kaijian
+  name: Li Kaijian
   metas:
     - icon: Mail
-      name_en: Email:
+      name: Email:
       content: admin@likaijian.com
       link: mailto:admin@likaijian.com
     - icon: Phone
-      name_en: Phone:
+      name: Phone:
       content: 178-****-****
     - icon: BrandWechat
-      name_en: WeChat:
+      name: WeChat:
       content: YH191822YH
     - icon: BrandGithub
-      name_en: Hometown:
+      name: Native Place:
       content: Wuzhou, Guangxi
 
 sections:
-  - title: Education Background
+  - title: Education
     projects:
-      - title: Guangxi Vocational and Technical College of Logistics
+      - title: Guangxi Vocational College of Logistics
         subtitle: School of Logistics Management
-        date: September 2022 - June 2025
+        date: Sep 2022 - Jun 2025
         icon: School
-        caption: Intelligent Logistics Technology, Diploma
+        caption: Intelligent Logistics Technology, Associate Degree
         items:
-          - "<b>Core Courses:</b> Intelligent Warehouse and Distribution Management, Intelligent Transportation Management Practices, Logistics System Construction, Logistics Information Technology and Application, Logistics Marketing, Modern Logistics Management, Logistics Drones"
-          - "<b>Academic Performance:</b> GPA 3.32/4.00, Ranked 69% in the major"
-          - "<b>Class Positions:</b> Deputy Class Monitor, League Secretary, Dormitory Leader, Freshman Class Assistant"
-          - "<b>Volunteer Activities:</b> Accumulated over 50 hours of volunteer service"
+          - <b>Core Courses:</b> Intelligent Warehousing & Distribution Management, Intelligent Transportation Management, Logistics System Design, Logistics Information Technology, Logistics Marketing, Modern Logistics Management, Logistics Drones
+          - <b>Academic Performance:</b> GPA 3.32/4.00 (Top 69%)
+          - <b>Leadership Roles:</b> Vice Class Monitor, League Branch Secretary, Dormitory Leader, Freshman Class Assistant
+          - <b>Volunteer Service:</b> Accumulated 50+ volunteer hours
 
-  - title: Internship Experience
+  - title: Work Experience
     projects:
-      - title: Guangxi Vocational and Technical College of Logistics
+      - title: Guangxi Vocational College of Logistics
         subtitle: Data Processing Center
-        date: September 2023 - December 2024
+        date: Sep 2023 - Dec 2024
         icon: Code
-        caption: Classroom Equipment Manager
+        caption: Classroom Equipment Administrator
         items:
-          - "Maintenance of classroom computers and integrated smart boards: Daily equipment checks, troubleshooting, and repairs to ensure normal operation"
-          - "<b>Fault Handling:</b> Rapidly locate and resolve sudden equipment failures to ensure normal teaching activities"
-          - "<b>System Updates and Optimization:</b> Regularly update operating systems and software based on teaching needs to enhance device performance and compatibility"
+          - Maintained classroom computers and interactive whiteboards through regular inspections and troubleshooting
+          - <b>Troubleshooting:</b> Resolved emergency equipment failures to ensure uninterrupted teaching
+          - <b>System Optimization:</b> Performed regular OS updates and software upgrades to enhance device performance
 
-  - title: Project Experience
+  - title: Projects
     projects:
-      - title: VR Virtual and Real Design
-        desc: Built virtual scenes using C++ language
-        date: October 2022 - March 2023
+      - title: VR Virtual and Reality Design
+        desc: Virtual scene development using C++ 
+        date: Oct 2022 - Mar 2023
         icon: Code
-        caption: One of the Development Team Members
+        caption: Development Team Member
         items:
-          - "<b>Project Background:</b> Guangxi Vocational Skills Competition"
-          - "<b>My Responsibilities:</b> After team members completed model building using 3D MAX, imported models into Unity and completed character and bullet dynamics design"
+          - <b>Context:</b> Guangxi Vocational Skills Competition
+          - <b>Responsibilities:</b> Imported 3D models into Unity and implemented character movement/bullet dynamics
+      
       - title: Software Testing
-        desc: Performance testing of API interfaces
-        date: October 2023 - March 2024
+        desc: API Interface Performance Testing
+        date: Oct 2023 - Mar 2024
         icon: Stack2
         items:
-          - "<b>Project Background:</b> Guangxi Vocational Skills Competition"
-          - "<b>My Responsibilities:</b> Used JMeter and LoadRunner to record scripts and complete effective numerical testing"
+          - <b>Context:</b> Guangxi Vocational Skills Competition
+          - <b>Responsibilities:</b> Conducted load testing using JMeter and LoadRunner with script recording
 
-  - title: Certificates and Awards
+  - title: Honors & Certifications
     projects:
-      - title: Guangxi Vocational and Technical College of Logistics
-        subtitle: Excellent Communist Youth League Cadre
-        date: March 2024
+      - title: Guangxi Vocational College of Logistics
+        subtitle: Outstanding Communist Youth League Cadre
+        date: Mar 2024
 
-  - title: Campus Experience
+  - title: Campus Activities
     projects:
-      - title: Electronics and Technology Association of Logistics College
+      - title: Logistics Electronic Technology Association
         subtitle: Member
-        date: March 2024 - December 2024
+        date: Mar 2024 - Dec 2024
       - title: English Association
         subtitle: Member
-        date: December 2022 - July 2023
+        date: Dec 2022 - Jul 2023
