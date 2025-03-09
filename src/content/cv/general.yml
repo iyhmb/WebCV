@@ -12,9 +12,8 @@ header:
       name: 微信：
       content: YH191822YH
     - icon: BrandGithub
-      name: GitHub：
-      content: iyhmb
-      link: https://github.com/iyhmb
+      name: 籍贯：
+      content: 广西梧州
 sections:
   - title: 教育背景
     projects:
